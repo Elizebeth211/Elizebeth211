@@ -91,10 +91,6 @@
   <p><strong>Khasi</strong> (Native), <strong>English</strong> (C2 Listening/Reading, C1 Speaking/Writing)</p>
 </section>
 
-<section>
-  <h2>Contact</h2>
-  <p><strong>Email:</strong> elizebethlyngdoh@gmail.com</p>
-</section>
 
 <footer>
   <p>&copy; Elizabeth Lyngdoh Nonglait</p>
