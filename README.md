@@ -93,7 +93,7 @@
 
 
 <footer>
-  <p>&copy; Elizabeth Lyngdoh Nonglait</p>
+  <p>&copy; Elizebeth Lyngdoh Nonglait</p>
 </footer>
 
 </body>
